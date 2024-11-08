@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="Criteria">6e691578c33112108badf73ed401315a</category>
+        <order>1</order>
+        <property display_value="x_58872_needit.Records" name="x_58872_needit.Records">7e6e19fcc33112108badf73ed4013170</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-08 15:17:22</sys_created_on>
+        <sys_id>bb8edd3cc33112108badf73ed40131c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.Records.Criteria</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_bb8edd3cc33112108badf73ed40131c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-08 15:17:22</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>45d96350ebf78258c040fddacad0cd01</instance_id>
+        <instance_name>dev284342</instance_name>
+        <name>sys_properties_category_m2m_bb8edd3cc33112108badf73ed40131c6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="Criteria">6e691578c33112108badf73ed401315a</category><order>1</order><property display_value="x_58872_needit.Records" name="x_58872_needit.Records">7e6e19fcc33112108badf73ed4013170</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-08 15:17:22</sys_created_on><sys_id>bb8edd3cc33112108badf73ed40131c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.Records.Criteria</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_category_m2m_bb8edd3cc33112108badf73ed40131c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-08 15:17:22</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>64219724</payload_hash>
+        <record_name>x_58872_needit.Records.Criteria</record_name>
+        <reverted_from/>
+        <source>12d2cdb5c32012108badf73ed4013192</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-08 15:17:22</sys_created_on>
+        <sys_id>499e517cc33112108badf73ed4013194</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1930c59f5fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-08 15:17:22</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>4d9e517c28311210730fc6208a088893</update_guid>
+        <update_guid_history>4d9e517c28311210730fc6208a088893:64219724</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-08 15:57:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>4fefb150224e4eea90e91b3366427924</sys_id>
+        <sys_metadata>bb8edd3cc33112108badf73ed40131c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.Records.Criteria</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_bb8edd3cc33112108badf73ed40131c6</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_bb8edd3cc33112108badf73ed40131c6">499e517cc33112108badf73ed4013194</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-08 15:57:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

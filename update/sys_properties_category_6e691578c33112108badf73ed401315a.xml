@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Criteria</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-08 15:09:58</sys_created_on>
+        <sys_id>6e691578c33112108badf73ed401315a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Criteria</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_6e691578c33112108badf73ed401315a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-08 15:09:58</sys_updated_on>
+        <title><![CDATA[<p><em><span style="text-decoration: underline;"><span style="font-size: 18pt;"><strong>CRITERIA</strong></span></span></em></p>
+<p><span style="font-size: 10pt;">This is the <span style="font-size: 12pt;"><em><span style="text-decoration: underline;"><strong>CRITERIA<br /><br /></strong></span></em>Open document for more info:</span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-size: 12pt;"><a href="https://dev284342.service-now.com/sys_attachment.do?sys_id&#61;178cdd70c33112108badf73ed4013190&amp;sysparm_this_url&#61;sys_properties_category.do%3Fsysparm_nameofstack%3Dcee73ddc-6c7c-4f5e-87e8-a3a564169d78_bottomless%26sysparm_transaction_scope%3D6ead8e780f603200cd674f8ce1050ed1%26sysparm_isdevstudio%3Dtrue%26sys_id%3D-1%26sysparm_referring_url%3Dsys_properties_category.do%253Fsysparm_nameofstack%253Dcee73ddc-6c7c-4f5e-87e8-a3a564169d78_bottomless%2526sys_id%253D%2524sys_id_ui11%2526sysparm_transaction_scope%253D6ead8e780f603200cd674f8ce1050ed1%26sysparm_nofocus%3Dtrue" rel="nofollow">Sample File_ONDIANO.pdf</a></span></span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=6e691578c33112108badf73ed401315a"/>
+</record_update>
